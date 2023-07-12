@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spring源码解析/Spring源码解析.iml" filepath="$PROJECT_DIR$/Spring源码解析/Spring源码解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo源码解析/Dubbo源码解析.iml" filepath="$PROJECT_DIR$/Dubbo源码解析/Dubbo源码解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mysql源码解析/Mysql源码解析.iml" filepath="$PROJECT_DIR$/Mysql源码解析/Mysql源码解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis源码解析/Redis源码解析.iml" filepath="$PROJECT_DIR$/Redis源码解析/Redis源码解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat源码解析/Tomcat源码解析.iml" filepath="$PROJECT_DIR$/Tomcat源码解析/Tomcat源码解析.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sourceCodeAnalyze.iml" filepath="$PROJECT_DIR$/.idea/sourceCodeAnalyze.iml" />
     </modules>
   </component>
