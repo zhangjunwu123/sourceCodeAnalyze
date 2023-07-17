@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DubboCode/DubboCode.iml" filepath="$PROJECT_DIR$/DubboCode/DubboCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/MysqlCode/MysqlCode.iml" filepath="$PROJECT_DIR$/MysqlCode/MysqlCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedisCode/RedisCode.iml" filepath="$PROJECT_DIR$/RedisCode/RedisCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCode/SpringCode.iml" filepath="$PROJECT_DIR$/SpringCode/SpringCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/TomcatCode/TomcatCode.iml" filepath="$PROJECT_DIR$/TomcatCode/TomcatCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sourceCodeAnalyze.iml" filepath="$PROJECT_DIR$/.idea/sourceCodeAnalyze.iml" />
     </modules>
